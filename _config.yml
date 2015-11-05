@@ -1,0 +1,23 @@
+name: EeroAalto
+favicon: null
+layout_spectrum: 0.07997634867206216
+typography_spectrum: 0.4718134927097708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6572859312873334
+  lightness: 0.8993413008283824
+  saturation: 0.9170569847337902
+  rhythmicContrast: 0.8384235464036465
+purpose: []
